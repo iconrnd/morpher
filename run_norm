@@ -1,0 +1,3 @@
+python main.py --no_prompt --image midjour.png --normratio 0.4 --run branch --obj_path data/renew3.obj --output_dir results/head7 --sigma 10.0  --clamp clamp --n_normaugs 2 --n_augs 1 --normmincrop 0.1 --normmaxcrop 0.3 --geoloss --colordepth 2 --normdepth 3 --frontview --frontview_std 2 --clipavg view --lr_decay 0.9 --clamp clamp --normclamp clamp  --maxcrop 1.0 --save_render --seed 775442 --n_iter 501  --learning_rate 0.005 --normal_learning_rate 0.005  --standardize --background 1 1 1 --frontview_center 1.0 0.5
+
+

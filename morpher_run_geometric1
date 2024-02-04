@@ -1,0 +1,2 @@
+python main.py --image nawer1.jpg --normratio 0.3 --run branch --obj_path data/H2.obj --output_dir results/H4 --prompt "3D geometry" --sigma 2.0  --clamp clamp --n_normaugs 4 --n_augs 2 --normmincrop 0.1 --normmaxcrop 0.3 --geoloss --colordepth 2 --normdepth 4 --frontview --frontview_std 3 --clipavg view --lr_decay 0.7 --clamp clamp --normclamp clamp  --maxcrop 1.0 --save_render --seed 987442 --n_iter 1501  --learning_rate 0.0005 --normal_learning_rate 0.0005  --standardize --background 1 1 1 --frontview_center 1.0 0.5
+
